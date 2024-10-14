@@ -1,2 +1,2 @@
 # coursera-test
-causer tests
+coursera tests
